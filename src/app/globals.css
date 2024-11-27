@@ -8,16 +8,6 @@
 }
 
 body {
-  color: rgb(var(--foreground));
-  background: rgb(var(--background));
-}
-
-/* Add Quetico branding styles */
-.quetico-text-primary { color: #001826; }
-.quetico-text-light { color: #00294d; }
-.quetico-bg-primary { background-color: #001826; }
-.quetico-bg-light { background-color: #00294d; }
-
-.text-quetico-primary-light {
-  color: var(--quetico-primary-light);
+  margin: 0;
+  padding: 0;
 }
