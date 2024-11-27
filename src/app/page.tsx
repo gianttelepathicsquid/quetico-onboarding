@@ -1,3 +1,5 @@
+"use client";
+
 import { QueticoOnboardingApp } from '@/components/checklist'
 
 export default function Home() {
